@@ -1,0 +1,32 @@
+#namep{
+   overflow: hidden;
+   font-family: 'Times New Roman', Times, serif;
+   text-decoration: none;
+   letter-spacing: 5px;
+   /* khoảng cách giữa các chữ */
+   direction: ltr;
+   /* canh các dòng qua bên trái hoặc bên phải  */
+   transform: none;
+   translate: ;
+   transition: none;
+  
+    width: 100px;
+    height: 100px;
+    background: red;
+    transition-property: width;
+    transition-duration: 2s;
+    transition-timing-function: linear;
+    transition-delay: 10s;
+  
+  
+}
+body{
+    background-color: aqua;
+    color: black;
+}
+@media screen {
+       
+}
+@media screen and {max-width: 600px;
+    
+}
